@@ -1,0 +1,48 @@
+{
+<<<<<<< HEAD
+  "name": "electriccarchargingcenterserver",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with Fastify-CLI.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap \"test/**/*.test.js\"",
+    "start": "fastify start -l info app.js",
+    "dev": "fastify start -w -l info -P app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "fastify": "^3.0.0",
+    "fastify-autoload": "^3.10.0",
+    "fastify-cli": "^2.15.0",
+    "fastify-plugin": "^3.0.0",
+    "fastify-sensible": "^3.1.2"
+  },
+  "devDependencies": {
+    "tap": "^15.1.6"
+  }
+=======
+  "name": "electric-car-charging-center-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerodice0/electricCarCharginCenterServer.git"
+  },
+  "author": "zerodice0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerodice0/electricCarCharginCenterServer/issues"
+  },
+  "homepage": "https://github.com/zerodice0/electricCarCharginCenterServer#readme"
+>>>>>>> 190d74658d440d982a73e08eccb8eda24830afb6
+}
